@@ -23,7 +23,6 @@
 		62D3325A168D29110039FB31 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62D33235168D29110039FB31 /* Foundation.framework */; };
 		62D33262168D29110039FB31 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 62D33260168D29110039FB31 /* InfoPlist.strings */; };
 		62D33265168D29110039FB31 /* Sun_ClockTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 62D33264168D29110039FB31 /* Sun_ClockTests.m */; };
-		62E2EBE1168D377800FCBC03 /* lightning.png in Resources */ = {isa = PBXBuildFile; fileRef = 62E2EBE0168D377800FCBC03 /* lightning.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,7 +58,6 @@
 		62D33261168D29110039FB31 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		62D33263168D29110039FB31 /* Sun_ClockTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sun_ClockTests.h; sourceTree = "<group>"; };
 		62D33264168D29110039FB31 /* Sun_ClockTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sun_ClockTests.m; sourceTree = "<group>"; };
-		62E2EBE0168D377800FCBC03 /* lightning.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lightning.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,7 +122,6 @@
 				62D3324B168D29110039FB31 /* MainStoryboard.storyboard */,
 				62D3324E168D29110039FB31 /* SCViewController.h */,
 				62D3324F168D29110039FB31 /* SCViewController.m */,
-				62E2EBE0168D377800FCBC03 /* lightning.png */,
 				62D3323A168D29110039FB31 /* Supporting Files */,
 			);
 			path = "Sun Clock";
@@ -240,7 +237,6 @@
 				62D33248168D29110039FB31 /* Default@2x.png in Resources */,
 				62D3324A168D29110039FB31 /* Default-568h@2x.png in Resources */,
 				62D3324D168D29110039FB31 /* MainStoryboard.storyboard in Resources */,
-				62E2EBE1168D377800FCBC03 /* lightning.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
