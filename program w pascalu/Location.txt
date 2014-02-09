@@ -1,0 +1,437 @@
+Kraj, Miejscowoœæ, Strefa czasowa, Szerokoœæ, D³ugoœæ
+
+
+Afghanistan  - Kabul          +04  34:30:00 N   069:10:00 E
+Albania      - Tiranë         +01  41:20:00 N   019:49:00 E
+Algeria      - Algiers        +01  36:50:00 N   003:02:00 E
+Andorra      - Andorra        +01  42:30:00 N   001:30:00 E
+Angola       - Luanda         +01  08:50:00 S   013:15:00 E
+Argentina    - Buenos Aires   -03  34:40:00 S   058:30:00 W
+Argentina    - Ushuaia        -03  54:48:00 S   068:18:00 W
+Armenia      - Yerevan        +04  40:16:00 N   043:37:00 E
+Ascension    - Ascension      -01  08:00:00 S   014:00:00 W
+Australia    - Adelaide       +09  34:55:00 S   138:35:00 E
+Australia    - Alice Springs  +09  23:42:00 S   133:52:00 E
+Australia    - Brisbane       +10  27:30:00 S   153:00:00 E
+Australia    - Canberra       +10  35:18:00 S   149:08:00 E
+Australia    - Darwin         +09  12:23:00 S   130:54:00 E
+Australia    - Fremantle      +08  32:07:00 S   115:44:00 E
+Australia    - Hobart         +09  42:54:00 S   147:18:00 E
+Australia    - Melbourne      +10  37:27:00 S   144:58:00 E
+Australia    - Perth          +08  31:58:00 S   115:49:00 E
+Australia    - Sydney         +10  33:32:30 S   151:10:00 E
+Austria      - Graz           +01  47:05:00 N   015:22:00 E
+Austria      - Innsbruck      +01  47:17:00 N   011:25:00 E
+Austria      - Leibnitz       +01  46:48:00 N   015:33:00 E
+Austria      - Linz           +01  48:19:00 N   014:18:00 E
+Austria      - Salzburg       +01  47:54:00 N   013:03:00 E
+Austria      - Vienna         +01  48:13:00 N   016:22:00 E
+Azerbaijan   - Baku           +03  40:22:00 N   049:53:00 E
+Bahamas      - Nassau         -05  25:05:00 N   077:20:00 W
+Barbados     - Barbados       -05  13:00:00 N   059:00:00 W
+Belarus      - Minsk          +03  53:51:00 N   027:30:00 E
+Belgium      - Antwerp        +01  51:13:00 N   004:25:00 E
+Belgium      - Brugge         +01  51:12:00 N   003:14:00 E
+Belgium      - Brussels       +01  50:50:00 N   004:21:00 E
+Belgium      - Gent           +01  51:02:00 N   003:42:00 E
+Belgium      - Licge          +01  50:38:00 N   005:35:00 E
+Belgium      - Zeebrugge      +01  51:20:00 N   003:13:00 E
+Bermuda      - Bermuda        -04  32:00:00 N   065:00:00 W
+Bolivia      - La Paz         -04  16:30:00 S   068:10:00 W
+Bosnia       - Mostar         +01  43:20:00 N   017:50:00 E
+Bosnia       - Sarajevo       +01  43:52:00 N   018:26:00 E
+Brazil       - Brasilia       -03  15:46:00 S   047:58:00 W
+Brazil       - Rio de Janeiro -03  22:54:00 S   043:16:00 W
+Brazil       - Sao Paulo      -03  23:35:00 S   046:01:00 W
+Cambodia     - Phnom Penh     +07  11:35:00 N   104:55:00 E
+Canada       - Calgary        -07  51:03:00 N   114:05:00 W
+Canada       - Charlottetown  -04  46:18:00 N   063:12:00 W
+Canada       - Corner Brook   -03  49:00:00 N   059:00:00 W
+Canada       - Edmonton       -07  53:33:00 N   113:28:00 W
+Canada       - Fredericton    -04  45:54:00 N   066:42:00 W
+Canada       - Fundy Nat.Park -04  45:36:00 N   064:59:00 W
+Canada       - Goose Bay      -04  53:18:00 N   060:06:00 W
+Canada       - Halifax        -04  44:35:00 N   063:39:00 W
+Canada       - Hamilton       -05  43:15:00 N   079:51:00 W
+Canada       - London         -05  43:00:00 N   081:00:00 W
+Canada       - Moncton        -04  46:00:00 N   064:48:00 W
+Canada       - Montreal       -05  45:31:00 N   073:33:00 W
+Canada       - Ottawa         -05  45:24:00 N   075:42:00 W
+Canada       - Quebec         -05  47:50:00 N   071:15:00 W
+Canada       - Regina         -06  50:00:00 N   105:00:00 W
+Canada       - Saint John     -04  45:18:00 N   066:00:00 W
+Canada       - Saskatoon      -06  52:00:00 N   107:00:00 W
+Canada       - Sept-Iles      -05  50:13:00 N   066:21:30 W
+Canada       - St John's      -03  47:30:00 N   052:54:00 W
+Canada       - Summerside     -04  46:24:00 N   063:54:00 W
+Canada       - Sydney         -04  46:06:00 N   060:10:00 W
+Canada       - Thunder Bay    -05  48:00:00 N   089:00:00 W
+Canada       - Toronto        -05  43:39:00 N   079:23:00 W
+Canada       - Truro          -04  45:22:00 N   063:17:00 W
+Canada       - Vancouver      -08  49:09:00 N   123:04:00 W
+Canada       - Victoria       -08  48:00:00 N   123:00:00 W
+Canada       - Windsor        -05  42:00:00 N   083:00:00 W
+Canada       - Winnipeg       -06  49:54:00 N   097:08:00 W
+Canada       - Yarmouth       -04  43:50:00 N   066:17:00 W
+Canary       - Canary         -01  28:30:00 N   015:10:00 W
+Cayman       - Cayman         -05  19:00:00 N   080:00:00 W
+Chile        - Santiago       -04  33:30:00 S   070:40:00 W
+China        - Beijing        +08  39:48:00 N   116:30:00 E
+China        - Nanjing        +08  32:05:00 N   118:48:00 E
+China        - Shanghai       +08  31:15:00 N   121:30:00 E
+Colombia     - Bogota         -05  04:38:00 N   074:05:00 W
+Colombia     - Medellin       -05  06:15:00 N   075:36:00 W
+Croatia      - Dubrovnik      +01  42:40:00 N   018:07:00 E
+Croatia      - Split          +01  43:31:00 N   016:28:00 E
+Croatia      - Zagreb         +01  45:48:00 N   015:58:00 E
+Cuba         - Havana         -05  23:07:00 N   082:25:00 E
+Cyprus       - Nicosia        +02  35:10:00 N   033:22:00 E
+Czech Rep    - Prague         +01  50:05:00 N   014:25:00 E
+Denmark      - Aalborg        +01  57:03:00 N   009:51:00 E
+Denmark      - Aarhus         +01  56:09:30 N   010:13:00 E
+Denmark      - Copenhagen     +01  55:43:00 N   012:34:00 E
+Denmark      - Odense         +01  55:24:00 N   010:25:00 E
+Easter       - Easter         -07  27:05:00 S   109:20:00 W
+Egypt        - Aswan          +02  24:05:00 N   032:56:00 E
+Egypt        - Cairo          +02  30:03:00 N   031:15:00 E
+Egypt        - Luxor          +02  25:41:00 N   032:24:00 E
+El Salvador  - San Salvador   -06  13:40:00 N   089:10:00 W
+Ethiopia     - Addis Ababa    +03  09:03:00 N   038:42:00 E
+Falkland     - Falkland       -04  52:00:00 S   059:00:00 W
+Fiji         - Fiji           +12  16:00:00 S   179:00:00 E
+Finland      - Helsinki       +02  60:08:00 N   025:00:00 E
+Finland      - Inari          +02  68:54:00 N   027:05:00 E
+Finland      - Oulu           +02  65:00:00 N   025:26:00 E
+Finland      - Tampere        +02  61:32:00 N   023:45:00 E
+Finland      - Turku          +02  60:27:00 N   022:15:00 E
+Finland      - Vaasa          +02  63:06:00 N   021:36:00 E
+France       - Angers         +01  47:29:00 N   000:32:00 W
+France       - Bordeaux       +01  44:50:00 N   000:34:00 W
+France       - Brest          +01  48:23:00 N   004:30:00 W
+France       - Calais         +01  50:57:00 N   001:52:00 E
+France       - Cherbourg      +01  49:40:00 N   001:35:00 W
+France       - Dieppe         +01  49:55:00 N   001:05:00 E
+France       - Dijon          +01  47:20:00 N   005:02:00 E
+France       - Grenoble       +01  45:11:00 N   005:43:00 E
+France       - Le Chesnay     +01  48:50:00 N   002:07:00 E
+France       - Le Havre       +01  49:30:00 N   000:06:00 E
+France       - Le Mans        +01  48:00:00 N   000:12:00 E
+France       - Limoges        +01  45:50:00 N   001:15:00 E
+France       - Lyon           +01  45:46:00 N   004:50:00 E
+France       - Marseille      +01  43:18:00 N   005:22:00 E
+France       - Metz           +01  49:07:00 N   006:11:00 E
+France       - Nancy          +01  48:42:00 N   006:12:00 E
+France       - Nantes         +01  47:14:00 N   001:35:00 W
+France       - Nice           +01  43:42:00 N   007:16:00 E
+France       - Paris          +01  48:52:00 N   002:20:00 E
+France       - Pont-l'Abbé    +01  47:52:00 N   004:14:00 W
+France       - Reims          +01  49:15:00 N   004:02:00 E
+France       - Rennes         +01  48:06:00 N   001:40:00 W
+France       - Rouen          +01  49:26:00 N   001:05:00 E
+France       - Strasbourg     +01  48:35:00 N   007:45:00 E
+France       - Toulouse       +01  43:42:00 N   001:28:00 E
+France       - Wissembourg    +01  49:02:00 N   007:57:00 E
+Georgia      - Tbilis         +04  41:43:00 N   044:48:00 E
+Germany      - Alfeld         +01  51:59:00 N   009:51:00 E
+Germany      - Berlin         +01  52:30:00 N   013:26:00 E
+Germany      - Bonn           +01  50:44:00 N   007:06:00 E
+Germany      - Bremen         +01  53:05:00 N   008:48:00 E
+Germany      - Dortmund       +01  51:32:00 N   007:27:00 E
+Germany      - Dresden        +01  51:03:00 N   013:45:00 E
+Germany      - Dusseldorf     +01  51:13:00 N   006:47:00 E
+Germany      - Frankfurt      +01  50:06:00 N   008:41:00 E
+Germany      - Freiburg       +01  48:00:00 N   007:52:00 E
+Germany      - Hamburg        +01  53:33:00 N   010:00:00 E
+Germany      - Hannover       +01  52:23:00 N   009:44:00 E
+Germany      - Karlsruhe      +01  49:00:00 N   008:24:00 E
+Germany      - Kassel         +01  50:19:00 N   009:30:00 E
+Germany      - Kiel           +01  54:20:00 N   010:08:00 E
+Germany      - Köln           +01  50:53:00 N   007:00:00 E
+Germany      - Leipzig        +01  51:20:00 N   012:20:00 E
+Germany      - München        +01  48:08:00 N   011:35:00 E
+Germany      - Nurenberg      +01  49:27:00 N   011:05:00 E
+Germany      - Potsdam        +01  52:24:00 N   013:04:00 E
+Germany      - Regensburg     +01  49:00:30 N   012:07:00 E
+Germany      - Rostock        +01  54:06:00 N   012:09:00 E
+Germany      - Stüttgart      +01  48:47:00 N   009:12:00 E
+Germany      - Wurzburg       +01  49:48:00 N   009:57:00 E
+Greece       - Athens         +02  38:00:00 N   023:44:00 E
+Greece       - Thessalonika   +02  40:38:00 N   022:58:00 E
+Hong Kong    - Hong Kong      +08  22:15:00 N   114:11:00 E
+Hungary      - Budapest       +01  47:30:00 N   019:00:00 E
+Iceland      - Reykjavik      -01  61:09:00 N   021:58:00 W
+India        - Bangalore      +05  12:58:00 N   077:35:00 E
+India        - Bombay         +05  18:56:00 N   072:51:00 E
+India        - Calcutta       +05  22:35:00 N   088:21:00 E
+India        - Jaipur         +05  26:53:00 N   075:50:00 E
+India        - Madras         +05  13:05:00 N   080:18:00 E
+India        - New Delhi      +05  28:22:00 N   077:13:00 E
+India        - Poona          +05  18:34:00 N   073:58:00 E
+Indonesia    - Jakarta        +07  06:08:00 S   106:45:00 E
+Iran         - Abadan         +03  30:20:00 N   048:15:00 E
+Iran         - Qum            +03  34:39:00 N   050:57:00 E
+Iran         - Tehran         +03  35:39:30 N   051:26:00 E
+Iraq         - Baghdad        +03  33:20:00 N   044:26:00 E
+Ireland      - Cork           -00  51:54:00 N   008:28:00 W
+Ireland      - Dublin         -00  53:20:00 N   006:15:00 W
+Ireland      - Galway         -00  53:16:00 N   009:03:00 W
+Ireland      - Limerick       -00  52:40:00 N   008:38:00 W
+Ireland      - Waterford      -00  52:15:00 N   007:06:00 W
+Israel       - Haifa          +02  32:49:00 N   034:59:00 E
+Israel       - Jerusalem      +02  31:47:00 N   035:13:00 E
+Israel       - Tel Aviv       +02  32:05:00 N   034:46:00 E
+Italy        - Bari           +01  41:06:30 N   016:52:00 E
+Italy        - Cagliari       +01  39:13:00 N   009:08:00 E
+Italy        - Florence       +01  43:47:00 N   011:15:00 E
+Italy        - Foggia         +01  41:28:00 N   015:33:00 E
+Italy        - Genoa          +01  44:24:00 N   008:56:00 E
+Italy        - Milan          +01  45:28:00 N   009:12:00 E
+Italy        - Naples         +01  40:50:00 N   014:15:00 E
+Italy        - Palermo        +01  38:08:00 N   013:23:00 E
+Italy        - Pisa           +01  43:43:00 N   010:24:00 E
+Italy        - Rimini         +01  44:03:00 N   012:34:00 E
+Italy        - Rome           +01  41:53:00 N   012:30:00 E
+Italy        - Taranto        +01  40:28:00 N   017:15:00 E
+Italy        - Trieste        +01  45:39:00 N   013:47:00 E
+Italy        - Turin          +01  45:04:00 N   007:40:00 E
+Italy        - Venice         +01  45:26:00 N   012:20:00 E
+Jamaica      - Jamaica        -05  18:00:00 N   077:00:00 W
+Japan        - Kyoto          +09  35:02:00 N   135:45:00 E
+Japan        - Osaka          +09  34:40:00 N   135:30:00 E
+Japan        - Tokyo          +09  35:42:00 N   139:46:00 E
+Kenya        - Mombassa       +03  04:04:00 S   039:40:00 E
+Kenya        - Nairobi        +03  01:17:00 S   036:50:00 E
+Kyrghyz      - Frunze         +06  42:53:00 N   074:46:00 E
+Kyrghyz      - Tashkent       +06  41:16:00 N   069:13:00 E
+Latvia       - Riga           +03  56:53:00 N   024:08:00 E
+Lebanon      - Beirut         +02  33:52:00 N   035:28:00 E
+Leeward Is   - Leeward Is     -04  16:00:00 N   062:00:00 W
+Luxembourg   - Luxembourg     +01  49:37:00 N   006:08:00 E
+Macedonia    - Skopje         +01  42:00:00 N   021:26:30 E
+Malaysia     - Kuala Lumpur   +07  03:08:00 N   101:42:00 E
+Martinique   - Martinique     -04  14:00:00 N   061:00:00 W
+Mexico       - Acapulco       -06  16:51:00 N   099:56:00 W
+Mexico       - Mexico City    -06  19:25:00 N   099:10:00 W
+Midway       - Midway         -11  28:00:00 N   176:00:00 W
+Monaco       - Monte Carlo    +01  43:44:00 N   007:25:00 E
+Mongolia     - Altan Bulag    +07  50:20:00 N   106:26:00 E
+Mongolia     - Ulaan Baatar   +07  47:54:00 N   106:52:00 E
+Morocca      - Marrakech      -00  31:49:00 N   008:00:00 W
+Morocco      - Tanger         -00  35:47:00 N   005:50:00 W
+Nepal        - Kathmandu      +05  27:42:00 N   085:19:00 E
+Netherlands  - Amsterdam      +01  52:21:00 N   004:54:00 E
+Netherlands  - Apeldoorn      +01  52:13:00 N   005:57:00 E
+Netherlands  - Maastricht     +01  50:51:00 N   005:42:00 E
+Netherlands  - Nijmegen       +01  51:50:00 N   005:52:00 E
+Netherlands  - Rotterdam      +01  51:55:00 N   004:29:00 E
+Netherlands  - The Hague      +01  52:05:00 N   004:16:00 E
+New Hebrides - New Hebrides   +11  15:00:00 S   168:00:00 E
+New Zealand  - Auckland       +12  36:55:00 S   174:45:00 E
+New Zealand  - Christchurch   +12  43:33:00 S   172:40:00 E
+New Zealand  - Dunedin        +12  45:52:00 S   170:30:00 E
+New Zealand  - Hamilton       +12  37:46:00 S   175:18:00 E
+New Zealand  - Invercargill   +12  46:26:00 S   168:21:00 E
+New Zealand  - Napier         +12  39:29:00 S   176:58:00 E
+New Zealand  - Nelson         +12  41:18:00 S   173:17:00 E
+New Zealand  - New Plymouth   +12  39:03:00 S   174:04:00 E
+New Zealand  - Oamaru         +12  45:08:00 S   171:00:00 E
+New Zealand  - Oban           +12  46:54:00 S   168:08:30 E
+New Zealand  - Queenstown     +12  45:03:00 S   168:52:00 E
+New Zealand  - Rocky Bay      +12  36:49:10 S   175:03:21 E
+New Zealand  - Te Anau        +12  45:26:00 S   167:40:00 S
+New Zealand  - Timaru         +12  44:23:00 S   171:14:00 E
+New Zealand  - Wellington     +12  41:17:00 S   174:47:00 E
+Nigeria      - Lagos          +01  06:27:00 N   003:28:00 E
+North Pole   - North Pole     -00  90:00:00 N   000:00:00 W
+Norway       - Bergen         +01  60:23:00 N   005:20:00 E
+Norway       - Narvik         +01  68:26:00 N   017:25:00 E
+Norway       - Oslo           +01  59:56:00 N   010:17:00 E
+Norway       - Stavager       +01  58:58:00 N   005:45:00 E
+Norway       - Tromsø         +01  69:42:00 N   019:00:00 E
+Norway       - Trondheim      +01  63:36:00 N   010:23:00 E
+Pakistan     - Karachi        +05  24:51:00 N   067:02:00 E
+Pakistan     - Lahore         +05  31:34:00 N   074:22:00 E
+Paraguay     - Asuncion       -04  25:15:00 S   057:40:00 W
+Peru         - Lima           -05  12:06:00 S   077:03:00 W
+Philippines  - Baguio         +08  16:25:00 N   120:37:00 E
+Philippines  - Manila         +08  14:36:00 N   120:59:00 E
+Pitcairn     - Pitcairn       -08  25:04:00 S   130:06:00 W
+Poland       - Gdansk         +01  54:22:00 N   018:38:00 E
+Poland       - Krakow         +01  50:03:00 N   019:55:00 E
+Poland       - Lodz           +01  51:49:00 N   019:28:00 E
+Poland       - Warsaw         +01  52:15:00 N   021:00:00 E
+Portugal     - Lisbon         -00  38:44:00 N   009:08:00 W
+Portugal     - Pôrto          -00  41:09:00 N   008:37:00 W
+Romania      - Bacau          +02  46:32:00 N   026:59:00 E
+Romania      - Bucharest      +02  44:25:00 N   026:07:00 E
+Russia       - Arkhangel'sk   +03  64:32:00 N   040:40:00 E
+Russia       - Irkutsk        +08  52:18:00 N   104:15:00 E
+Russia       - Moscow         +03  55:45:00 N   037:35:00 E
+Russia       - Murmansk       +03  68:59:00 N   033:08:00 E
+Russia       - Novosibirsk    +07  55:04:00 N   082:51:30 E
+Russia       - Omsk           +06  55:00:00 N   073:22:00 E
+Russia       - Smolensk       +03  54:49:00 N   032:04:00 E
+Russia       - St Petersburg  +03  59:55:00 N   030:25:00 E
+Russia       - Tomsk          +07  56:30:00 N   085:05:00 E
+Russia       - Vladivostok    +10  43:09:00 N   131:53:00 E
+Russia       - Volgograd      +04  48:45:00 N   044:30:00 E
+Samoa        - Samoa          -11  14:00:00 S   171:00:00 W
+Saudi Arabia - Ar Riyad       +03  24:39:00 N   046:46:00 E
+Senegal      - Dakar          -00  14:38:00 N   017:27:00 W
+Seychelles   - Seychelles     +04  05:00:00 S   055:00:00 E
+Singapore    - Singapore      +07  01:20:00 N   103:50:00 E
+Slovakia     - Bratislava     +01  48:10:00 N   017:10:00 E
+Slovenia     - Ljubljana      +01  46:40:00 N   014:30:00 E
+Solomon      - Solomon        +10  08:00:00 S   157:00:00 E
+South Africa - Bloemfontein   +02  29:07:00 S   026:14:00 E
+South Africa - Cape Town      +02  33:56:00 S   018:28:00 E
+South Africa - Durban         +02  29:53:00 S   031:00:00 E
+South Africa - East London    +02  33:00:00 S   027:54:00 E
+South Africa - Johannesburg   +02  26:15:00 S   028:00:00 E
+South Africa - Port Elizabeth +02  33:58:00 S   025:36:00 E
+South Africa - Pretoria       +02  25:45:00 S   028:12:00 E
+South Korea  - Seoul          +09  37:32:00 N   127:00:00 E
+South Pole   - South Pole     -00  90:00:00 S   000:00:00 W
+Spain        - Barcelona      +01  41:25:00 N   002:10:00 E
+Spain        - Bilboa         +01  43:15:00 N   002:56:00 W
+Spain        - Cadiz          +01  36:32:00 N   006:18:00 W
+Spain        - Cordoba        +01  37:53:00 N   004:46:00 W
+Spain        - Gibraltar      +01  36:09:00 N   005:21:00 W
+Spain        - Madrid         +01  40:25:00 N   003:43:00 W
+Spain        - Malaga         +01  36:43:00 N   004:25:00 W
+Spain        - Santander      +01  43:28:00 N   003:48:00 W
+Spain        - Seville        +01  37:24:00 N   005:59:00 W
+Spain        - Valencia       +01  39:29:00 N   000:24:00 W
+Sudan        - Khartoum       +02  15:33:00 N   032:35:00 E
+Sweden       - Goteborg       +01  57:45:00 N   012:00:00 E
+Sweden       - Malmö          +01  55:35:00 N   013:00:00 E
+Sweden       - Stockholm      +01  59:20:00 N   018:05:00 E
+Sweden       - Uppsala        +01  59:55:00 N   018:08:00 E
+Switzerland  - Bale           +01  47:32:00 N   007:31:00 E
+Switzerland  - Basel          +01  47:33:00 N   007:36:00 E
+Switzerland  - Bern           +01  46:57:00 N   007:26:00 E
+Switzerland  - Geneva         +01  46:13:00 N   006:09:00 E
+Switzerland  - Luzern         +01  47:02:00 N   008:17:30 E
+Switzerland  - Zürich         +01  47:23:00 N   008:33:00 E
+Taiwan       - Taipei         +08  25:05:00 N   121:32:00 E
+Tanzania     - Dar es Salaam  +03  06:51:00 S   039:18:00 E
+Tibet        - Lhasa          +06  29:41:00 N   091:10:00 E
+Tonga        - Tonga          -13  20:00:00 S   175:00:00 W
+Tunisia      - Tunis          +01  36:50:00 N   010:13:00 E
+Turkey       - Ankara         +02  39:55:00 N   032:50:00 E
+Turkey       - Istanbul       +02  41:02:00 N   028:59:00 E
+Uganda       - Entebbe        +03  00:05:00 N   032:29:00 E
+Uganda       - Kampala        +03  00:19:00 N   032:35:00 E
+UK           - Belfast        -00  54:35:00 N   005:55:00 W
+UK           - Birmingham     -00  52:30:00 N   001:50:00 W
+UK           - Brighton       -00  50:50:00 N   000:10:00 W
+UK           - Bristol        -00  51:28:00 N   002:35:00 W
+UK           - Cardiff        -00  51:30:00 N   003:12:00 W
+UK           - Carlisle       -00  54:53:00 N   002:55:00 W
+UK           - Douglas        -00  54:10:00 N   004:27:00 W
+UK           - Edinburgh      -00  55:56:00 N   003:14:00 W
+UK           - Glasgow        -00  55:52:00 N   004:18:00 W
+UK           - Gloucester     -00  51:51:00 N   002:13:00 W
+UK           - Ipswich        -00  52:03:00 N   001:09:00 W
+UK           - Leeds          -00  53:50:00 N   001:34:00 W
+UK           - Leicester      -00  52:40:00 N   001:09:00 W
+UK           - Liverpool      -00  53:24:00 N   002:58:00 W
+UK           - London         -00  51:30:00 N   000:10:00 W
+UK           - Londonderry    -00  55:00:00 N   007:19:00 W
+UK           - Manchester     -00  53:27:00 N   002:15:00 W
+UK           - Middlesborough -00  54:34:00 N   001:10:00 W
+UK           - Newcastle      -00  55:00:00 N   001:30:00 W
+UK           - Norwich        -00  52:38:00 N   001:17:00 E
+UK           - Nottingham     -00  52:58:00 N   001:10:00 W
+UK           - Oxford         -00  51:45:00 N   001:14:00 W
+UK           - Plymouth       -00  50:23:00 N   004:08:00 W
+UK           - Sheffield      -00  53:24:00 N   001:27:00 W
+UK           - Southampton    -00  50:55:00 N   001:23:00 W
+UK           - St.H. Jersey   -00  49:12:00 N   002:07:00 W
+UK           - Swansea        -00  51:38:00 N   003:57:00 W
+UK           - York           -00  53:58:00 N   001:05:00 W
+Ukraine      - Khar'kov       +03  50:00:00 N   036:15:00 E
+Ukraine      - Kiev           +03  50:28:00 N   030:29:00 E
+Ukraine      - L'vov          +03  49:50:00 N   024:00:00 E
+Ukraine      - Odessa         +03  46:30:00 N   030:46:00 E
+Ukraine      - Sevastopol     +03  44:36:00 N   033:31:00 E
+Ukraine      - Stanislav      +03  48:51:00 N   024:40:00 E
+Uruguay      - Montivideo     -03  34:55:00 S   056:10:00 W
+USA          - Albuquerque    -07  35:05:00 N   106:38:00 W
+USA          - Anchorage      -09  61:10:00 N   149:53:00 W
+USA          - Atlanta        -05  33:45:00 N   084:24:00 W
+USA          - Austin         -06  30:18:00 N   097:45:00 W
+USA          - Baltimore      -05  39:18:00 N   076:38:00 W
+USA          - Boise          -07  43:37:00 N   116:07:00 W
+USA          - Boston         -05  42:21:00 N   071:04:00 W
+USA          - Buffalo        -05  42:53:00 N   078:52:00 W
+USA          - Chicago        -06  41:56:00 N   087:38:00 W
+USA          - Dallas         -06  32:47:00 N   096:48:00 W
+USA          - Denver         -07  39:45:00 N   104:59:00 W
+USA          - Detroit        -05  42:20:00 N   083:03:00 W
+USA          - Galveston      -06  29:18:00 N   094:48:00 W
+USA          - Hartford       -05  41:46:00 N   072:41:00 W
+USA          - Honolulu       -10  21:19:00 N   157:53:00 W
+USA          - Houston        -06  29:46:00 N   095:22:00 W
+USA          - Key West       -05  24:39:00 N   081:45:00 W
+USA          - Lafeyette      -06  40:25:00 N   086:54:00 W
+USA          - Lake Telemark  -05  40:57:30 N   074:30:00 W
+USA          - Lancaster      -05  40:00:30 N   076:19:00 W
+USA          - Las Vegas      -07  36:10:00 N   115:09:00 W
+USA          - Los Alamos     -07  35:52:00 N   106:19:00 W
+USA          - Los Angeles    -08  34:03:00 N   118:14:00 W
+USA          - Mauna Kea      -10  19:44:00 N   155:23:40 W
+USA          - McDonald Obs   -06  30:42:00 N   104:07:00 W
+USA          - Memphis        -06  35:10:00 N   090:00:00 W
+USA          - Miami          -05  25:47:00 N   080:12:00 W
+USA          - Milwaukee      -06  43:03:00 N   087:56:00 W
+USA          - Minneapolis    -06  45:00:00 N   093:15:00 W
+USA          - Monterey       -08  36:35:00 N   121:55:00 W
+USA          - Nashville      -06  36:10:00 N   086:50:00 W
+USA          - New Orleans    -06  29:58:00 N   090:04:00 W
+USA          - New York       -05  40:45:00 N   074:00:00 W
+USA          - Newark         -05  40:44:00 N   074:11:00 W
+USA          - Nome           -09  64:30:00 N   165:30:00 W
+USA          - Oakland        -08  37:50:00 N   122:15:00 W
+USA          - Oklahoma City  -06  35:28:00 N   097:33:00 W
+USA          - Omaha          -06  41:16:00 N   095:58:00 W
+USA          - Oregon City OR -08  45:21:00 N   122:36:00 W
+USA          - Orlando        -05  28:33:00 N   081:21:00 W
+USA          - Pasadena       -08  34:10:00 N   118:09:00 W
+USA          - Pensacola      -05  30:26:00 N   087:12:00 W
+USA          - Peoria         -06  40:43:00 N   089:38:00 W
+USA          - Philadelphia   -06  40:00:00 N   075:10:00 W
+USA          - Phoenix        -07  33:30:00 N   112:03:00 W
+USA          - Pittsburgh     -05  40:26:00 N   080:00:00 W
+USA          - Portland       -08  45:31:00 N   122:41:00 W
+USA          - Richmond       -05  37:34:00 N   077:27:00 W
+USA          - Roanoke        -05  37:15:00 N   079:58:00 W
+USA          - Sacramento     -08  38:32:00 N   121:30:00 W
+USA          - S. Lake City   -07  40:45:00 N   111:54:00 W
+USA          - San Antonio    -06  29:25:00 N   098:30:00 W
+USA          - San Diego      -08  32:47:00 N   117:04:00 W
+USA          - San Francisco  -08  37:46:00 N   122:26:00 W
+USA          - San Juan       -04  18:30:00 N   066:03:00 W
+USA          - Seattle        -08  47:36:00 N   122:20:00 W
+USA          - Spokane        -08  47:40:00 N   117:25:00 W
+USA          - Stellafane     -05  43:19:00 N   072:29:00 W
+USA          - Syracuse       -05  43:03:00 N   076:10:00 W
+USA          - Tallahassee    -05  30:26:00 N   084:19:00 W
+USA          - Tampa          -05  27:58:00 N   082:38:00 W
+USA          - Topeka         -06  39:02:00 N   095:41:00 W
+USA          - Tucson         -07  32:15:00 N   111:02:00 W
+USA          - Tulsa          -06  36:07:00 N   095:58:00 W
+USA          - Valdez         -09  61:06:30 N   146:17:00 W
+USA          - Washington     -05  38:54:00 N   077:01:00 W
+USA          - Wichita Falls  -06  33:55:00 N   098:30:00 W
+USA          - Wichita        -06  35:41:00 N   097:20:00 W
+Uzbekistan   - Samarkand      +05  39:39:30 N   066:57:00 E
+Venezuela    - Caracas        -04  10:35:00 N   066:56:00 W
+Vietnam      - Da Nang        +07  16:04:00 N   108:13:00 E
+Vietnam      - Hanoi          +07  21:01:00 N   105:52:00 E
+Vietnam      - Saigon         +07  10:45:00 N   106:40:00 E
+Virgin       - Virgin         -04  18:00:00 N   065:00:00 W
+Yugoslavia   - Belgrade       +01  44:45:30 N   022:29:30 E
+Zambia       - Lusaka         +02  15:26:00 S   028:20:00 E
+Zimbabwe     - Bulawayo       +02  20:10:00 S   028:43:00 E
+Zimbabwe     - Que Que        +02  18:55:00 S   029:51:00 E

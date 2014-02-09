@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>68BF4D4A-D9E5-4D5E-8163-C1786A5886BA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Sun Clock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>86C2FCD3-BE00-4326-908A-92520A3C0F7D</key>
+		<string>https://github.com/ciessielski/Daylight.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Sun Clock.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>86C2FCD3-BE00-4326-908A-92520A3C0F7D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ciessielski/Daylight.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>86C2FCD3-BE00-4326-908A-92520A3C0F7D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>86C2FCD3-BE00-4326-908A-92520A3C0F7D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Daylight</string>
+		</dict>
+	</array>
+</dict>
+</plist>
