@@ -11,24 +11,34 @@
 
 @interface SCViewController ()
 
-@property (weak, nonatomic) IBOutlet UILabel *wspolrzedne;
+
 
 @end
 
 
-
 @implementation SCViewController
+
+@synthesize locationManager;
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
     
+    //pobieranie lokalizacji
+    locationManager = [[CLLocationManager alloc] init];
+    locationManager.distanceFilter = kCLDistanceFilterNone; // whenever we move
+    locationManager.desiredAccuracy = kCLLocationAccuracyHundredMeters; // 100 m
+    [locationManager startUpdatingLocation];
+    
+    //pobieranie elementów daty
+    NSDateComponents *components = [[NSCalendar currentCalendar] components:NSDayCalendarUnit | NSMonthCalendarUnit | NSYearCalendarUnit fromDate:[NSDate date]];
+    
     //kod liczący wschody i zachody słońca
-    int R = 2005;
-    int M=1;
-    int D=1;
-    double Lat=50.0;   //szerokosc geograficzna    ujemna - S  dodatnia - N
-    double Long=19.00; //dlugosc geograficzna      ujemna - W  dodatnia - E
+    int R = [components year];
+    int M = [components month];
+    int D = [components day];
+    double Lat = locationManager.location.coordinate.latitude;   //szerokosc geograficzna    ujemna - S  dodatnia - N
+    double Long = locationManager.location.coordinate.longitude; //dlugosc geograficzna      ujemna - W  dodatnia - E
     double Req=-0.833; //wysokosc Slonca podczas Wschodu i Zachodu
     double J = 367*R- (7*(R+((M+9)/12))/4)+(275*M/9)+D-730531.5;
     double Cent=J/36525;
@@ -41,8 +51,13 @@
     double C=(sin(0.017453293*Req) - sin(0.017453293*Lat)*cos(A))/(cos(0.017453293*Lat)*cos(A));
     double Tran=(M_PI - (E+0.017453293*Long))*57.29577951/15;
     
+    NSLog(@"rok:%d miesiac:%d dzien:%d",R, M, D);
     NSLog(@"gt = %e %e %e", C, E, A);
     NSLog(@" %f %e", Tran, Tran);
+    
+    NSLog(@"długość:%f szerokość:%f", Long, Lat);
+    
+   
 
 }
 

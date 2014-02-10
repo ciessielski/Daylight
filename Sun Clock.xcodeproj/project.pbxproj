@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		11CAFA4418A8807C0011D689 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11CAFA4318A8807C0011D689 /* CoreLocation.framework */; };
 		62D33234168D29110039FB31 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62D33233168D29110039FB31 /* UIKit.framework */; };
 		62D33236168D29110039FB31 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62D33235168D29110039FB31 /* Foundation.framework */; };
 		62D33238168D29110039FB31 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62D33237168D29110039FB31 /* CoreGraphics.framework */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		11CAFA4318A8807C0011D689 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		62D3322F168D29110039FB31 /* Sun Clock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sun Clock.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		62D33233168D29110039FB31 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		62D33235168D29110039FB31 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -65,6 +67,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11CAFA4418A8807C0011D689 /* CoreLocation.framework in Frameworks */,
 				62D33234168D29110039FB31 /* UIKit.framework in Frameworks */,
 				62D33236168D29110039FB31 /* Foundation.framework in Frameworks */,
 				62D33238168D29110039FB31 /* CoreGraphics.framework in Frameworks */,
@@ -106,6 +109,7 @@
 		62D33232168D29110039FB31 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				11CAFA4318A8807C0011D689 /* CoreLocation.framework */,
 				62D33233168D29110039FB31 /* UIKit.framework */,
 				62D33235168D29110039FB31 /* Foundation.framework */,
 				62D33237168D29110039FB31 /* CoreGraphics.framework */,

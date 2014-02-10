@@ -7,7 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <CoreLocation/CoreLocation.h>
+
+
 
 @interface SCViewController : UIViewController
+
+@property (strong, nonatomic) IBOutlet CLLocationManager *locationManager;
+
 
 @end

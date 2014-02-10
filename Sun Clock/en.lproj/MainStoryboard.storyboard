@@ -16,26 +16,8 @@
                     <view key="view" contentMode="scaleToFill" id="3">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <subviews>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" ambiguous="YES" text="Wrocław 51*21'N 23*21'E" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="d2L-7K-SUd">
-                                <rect key="frame" x="49" y="547" width="222" height="21"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="222" id="Zn0-F9-71m"/>
-                                    <constraint firstAttribute="height" constant="21" id="qQX-PC-b6K"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" name="STHeitiTC-Light" family="Heiti TC" pointSize="17"/>
-                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
-                        <constraints>
-                            <constraint firstItem="d2L-7K-SUd" firstAttribute="bottom" secondItem="3" secondAttribute="bottom" id="0L1-Xh-S3z"/>
-                        </constraints>
                     </view>
-                    <connections>
-                        <outlet property="wspolrzedne" destination="d2L-7K-SUd" id="5VS-IP-TwW"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4" sceneMemberID="firstResponder"/>
             </objects>
