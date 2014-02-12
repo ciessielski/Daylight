@@ -51,8 +51,7 @@
     double A = asin(sin(O)*sin(L+F));
     double C = (sin(0.017453293*Req) - sin(0.017453293*Lat)*cos(A))/(cos(0.017453293*Lat)*cos(A));
     
-//    double Tran = (M_PI - (E+0.017453293*Long))*57.29577951/15;
-    double sunrise = (M_PI - (E+0.17453293*Long+A*cos(C)))*57.29577951/15;
+    double sunrise = (M_PI - (E+0.17453293*Long+A*cos(C)))*(57.29577951/15);
     double sunset = (M_PI - (E+0.17453293*Long-A*cos(C)))*57.29577951/15;
 
     NSLog(@"długość:%f szerokość:%f", Long, Lat);
@@ -61,17 +60,17 @@
     
     NSLog(@"sunrise: %f",sunrise);
     NSLog(@"sunset: %f",sunset);
-//    NSLog(@"tran: %f",Tran);
-
-    NSLog(@"gt = %f %f %f", C, E, A);
+//    NSLog(@"gt = %f %f %f", C, E, A);
     
     
+    //strefy czasowe
+    
+    NSTimeZone* deviceTimeZone_ = [NSTimeZone systemTimeZone];
+    float offset = [deviceTimeZone_ secondsFromGMTForDate:[NSDate date]] / 3600.0;
+    NSLog(@"Timezone: %f",offset);
     
     
     //przerabianie obliczeń na godziny
-    
-    
-    
     int sunriseHour = sunrise;
     int sunriseMinutes = ((sunrise - sunriseHour)*60);
     
