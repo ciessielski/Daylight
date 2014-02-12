@@ -49,11 +49,24 @@
     double F = 0.033423*sin(G)+0.00034907*sin(2*G);
     double E = 0.0430398*sin(2*(L+F)) - 0.00092502*sin(4*(L+F)) - F;
     double A = asin(sin(O)*sin(L+F));
-    double C = (sin(0.017453293*Req) - sin(0.017453293*Lat)*cos(A))/(cos(0.017453293*Lat)*cos(A));
+    double C = (sin(0.017453293*Req)-sin(0.017453293*Lat)*sin(A))/(cos(0.017453293*Lat)*cos(A));
     
-    double sunrise = (M_PI - (E+0.17453293*Long+A*cos(C)))*(57.29577951/15);
-    double sunset = (M_PI - (E+0.17453293*Long-A*cos(C)))*57.29577951/15;
+    double sunrise = (M_PI - (E + 0.017453293*Long + acos(C)))*57.29577951/15;
+    double sunset = (M_PI - (E + 0.017453293*Long + (-1)*acos(C)))*57.29577951/15;
+    
+    NSLog(@"J:%f", J);
+    NSLog(@"Cent:%f", Cent);
+    NSLog(@"L:%f", L);
+    NSLog(@"G:%f", G);
+    NSLog(@"O:%f", O);
+    NSLog(@"F:%f", F);
+    NSLog(@"E:%f", E);
+    NSLog(@"A:%f", A);
+    NSLog(@"C:%f", C);
 
+
+
+    
     NSLog(@"długość:%f szerokość:%f", Long, Lat);
     NSLog(@"rok:%d miesiac:%d dzien:%d",R, M, D);
 
