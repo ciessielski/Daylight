@@ -64,7 +64,6 @@
     
     
     //strefy czasowe
-    
     NSTimeZone* deviceTimeZone_ = [NSTimeZone systemTimeZone];
     float offset = [deviceTimeZone_ secondsFromGMTForDate:[NSDate date]] / 3600.0;
     NSLog(@"Timezone: %f",offset);
@@ -77,10 +76,9 @@
     int sunsetHour = sunset;
     int sunsetMinutes = ((sunset - sunsetHour)*60);
     
-    NSLog(@"sunriseHour: %d",sunriseHour);
-    NSLog(@"sunriseMinutes: %d",sunriseMinutes);
-    NSLog(@"sunsetHour: %d",sunsetHour);
-    NSLog(@"sunsetMinutes: %d",sunsetMinutes);
+    NSLog(@"sunrise: %d:%d",sunriseHour,sunriseMinutes);
+    NSLog(@"sunset: %d:%d",sunsetHour,sunsetMinutes);
+    
    
 
 }
