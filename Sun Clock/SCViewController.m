@@ -39,24 +39,49 @@
     int D = [components day];
     double Lat = locationManager.location.coordinate.latitude;   //szerokosc geograficzna    ujemna - S  dodatnia - N
     double Long = locationManager.location.coordinate.longitude; //dlugosc geograficzna      ujemna - W  dodatnia - E
-    double Req=-0.833; //wysokosc Slonca podczas Wschodu i Zachodu
-    double J = 367*R- (7*(R+((M+9)/12))/4)+(275*M/9)+D-730531.5;
-    double Cent=J/36525;
+    double Req = -0.833; //wysokosc Slonca podczas Wschodu i Zachod
+    
+    double J = 367*R - (7*(R+((M+9)/12))/4)+(275*M/9)+D-730531.5;
+    double Cent = J/36525;
     double L = fmod((4.8949504201433+628.331969753199*Cent),6.28318530718); //
-    double G=fmod((6.2400408+628.3019501*Cent),6.28318530718);
-    double O=0.409093-0.0002269*Cent;
-    double F=0.033423*sin(G)+0.00034907*sin(2*G);
-    double E=0.0430398*sin(2*(L+F)) - 0.00092502*sin(4*(L+F)) - F;
-    double A=asin(sin(O)*sin(L+F));
-    double C=(sin(0.017453293*Req) - sin(0.017453293*Lat)*cos(A))/(cos(0.017453293*Lat)*cos(A));
-    double Tran=(M_PI - (E+0.017453293*Long))*57.29577951/15;
+    double G = fmod((6.2400408+628.3019501*Cent),6.28318530718);
+    double O = 0.409093-0.0002269*Cent;
+    double F = 0.033423*sin(G)+0.00034907*sin(2*G);
+    double E = 0.0430398*sin(2*(L+F)) - 0.00092502*sin(4*(L+F)) - F;
+    double A = asin(sin(O)*sin(L+F));
+    double C = (sin(0.017453293*Req) - sin(0.017453293*Lat)*cos(A))/(cos(0.017453293*Lat)*cos(A));
     
-    NSLog(@"rok:%d miesiac:%d dzien:%d",R, M, D);
-    NSLog(@"gt = %e %e %e", C, E, A);
-    NSLog(@" %f %e", Tran, Tran);
-    
+//    double Tran = (M_PI - (E+0.017453293*Long))*57.29577951/15;
+    double sunrise = (M_PI - (E+0.17453293*Long+A*cos(C)))*57.29577951/15;
+    double sunset = (M_PI - (E+0.17453293*Long-A*cos(C)))*57.29577951/15;
+
     NSLog(@"długość:%f szerokość:%f", Long, Lat);
+    NSLog(@"rok:%d miesiac:%d dzien:%d",R, M, D);
+
     
+    NSLog(@"sunrise: %f",sunrise);
+    NSLog(@"sunset: %f",sunset);
+//    NSLog(@"tran: %f",Tran);
+
+    NSLog(@"gt = %f %f %f", C, E, A);
+    
+    
+    
+    
+    //przerabianie obliczeń na godziny
+    
+    
+    
+    int sunriseHour = sunrise;
+    int sunriseMinutes = ((sunrise - sunriseHour)*60);
+    
+    int sunsetHour = sunset;
+    int sunsetMinutes = ((sunset - sunsetHour)*60);
+    
+    NSLog(@"sunriseHour: %d",sunriseHour);
+    NSLog(@"sunriseMinutes: %d",sunriseMinutes);
+    NSLog(@"sunsetHour: %d",sunsetHour);
+    NSLog(@"sunsetMinutes: %d",sunsetMinutes);
    
 
 }
